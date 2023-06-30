@@ -1,0 +1,14 @@
+subprocess
+json
+vosk
+pyaudio
+ipywidgets
+IPython
+time
+threading 
+queue
+transfomers
+transfomers[sentencepiece] 
+transformers[torch]
+transformers[tf-cpu]
+ransformers[flax]
