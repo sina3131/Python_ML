@@ -2,7 +2,7 @@
 
 
 Description
-This is a speech recognition and live tranlation programe in python usuing pyaudio, vosk, and tranformers libraries.
+This is a speech recognition and live translation programe in python usuing pyaudio, vosk, and tranformers libraries.
 The programe starts recording the microphone of choice, then it uses pretrained modules to convert the audio to text, finally it uses the tranformers model to translate the text 
 to language of choice. 
 
